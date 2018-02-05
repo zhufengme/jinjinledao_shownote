@@ -8,8 +8,6 @@ Shownote 内容应为Markdown格式。
 
 ### 标题
 
-What things you need to install the software and how to install them
-
 ```
 69-想聊天，不是只有微信可以用.md
 ```
