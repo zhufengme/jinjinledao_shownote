@@ -32,7 +32,7 @@ Shownote 内容应为Markdown格式。
 
 - 聊聊大家的IM使用习惯
 - 霍炬给微信提供表情包的经历
-- 聊聊 [Telegram](https://telegram.org/) 的 ICO
+- 聊聊 [Telegram](https://telegram.org/) 的 IC
 
 ## More Resources 
 
