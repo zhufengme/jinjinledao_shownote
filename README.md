@@ -1,6 +1,6 @@
-津津乐道播客Shownote
+# 津津乐道播客Shownote
 
-这是津津乐道播客的Shownote。欢迎大家听过播客之后看一下shownote作为回顾/总结。欢迎大家补充每一期Shownote内容，也是帮自己做一个总结。踊跃做[Pull Request](https://help.github.com/articles/creating-a-pull-request/)
+这是津津乐道播客的Shownote。欢迎大家听过播客之后看一下shownote作为回顾/总结。欢迎大家补充每一期Shownote内容，也是帮自己做一个总结。踊跃做[Pull Request](https://help.github.com/articles/creating-a-pull-request/)。
 
 ## 格式
 
