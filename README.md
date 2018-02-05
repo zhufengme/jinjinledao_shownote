@@ -82,9 +82,15 @@ Shownote 内容应为Markdown格式。
 ## Note
 
 ### Pull Request 教程
-（希望大家能写个更简单点的教程）
+#### [本项目Pull Request教程](docs/pull-request-introduction.md)
 
-[阮一峰Pull Request 的命令行管理](http://www.ruanyifeng.com/blog/2017/07/pull_request.html)
+（希望大家能一起写个更简单点的教程）
+
+参考：
+
+1. [阮一峰Pull Request 的命令行管理](http://www.ruanyifeng.com/blog/2017/07/pull_request.html)
+
+### 图片上传教程
 
 
 
