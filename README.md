@@ -16,7 +16,7 @@ What things you need to install the software and how to install them
 
 ### 内容
 
-大家请拷贝根目录下的`Template [EpisodeNumber]-[EpisodeTItile].md` 文件作为新建新一期Shownote的模板。
+大家请拷贝根目录下的[`Template [EpisodeNumber]-[EpisodeTItile].md`](https://github.com/zhufengme/jinjinledao_shownote/blob/master/Template%20%5BEpisodeNumber%5D-%5BEpisodeTItile%5D.md) 文件作为新建新一期Shownote的模板。
 
 请参考以下格式：
 
