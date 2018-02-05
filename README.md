@@ -77,6 +77,19 @@ Shownote 内容应为Markdown格式。
 
 文件名与文本采用与中文版本相同格式。
 
+
+
+## Note
+
+### Pull Request 教程
+（希望大家能写个更简单点的教程）
+
+[阮一峰Pull Request 的命令行管理](http://www.ruanyifeng.com/blog/2017/07/pull_request.html)
+
+
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
