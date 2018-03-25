@@ -72,14 +72,15 @@ Shownote 内容应为Markdown格式。
 
 例如：在 081.放卫星这事儿，为啥SpaceX能干成？ 这一期中
 ```
-# tag
+## Tag
 
 space X
 
 ```
 可以改为
 ```
-# tag
+## Tag
+
 [space X](https://zh.m.wikipedia.org/zh-cn/SpaceX)
 ```
 会有更好的效果
