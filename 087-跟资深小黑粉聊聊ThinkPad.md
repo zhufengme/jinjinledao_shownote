@@ -12,7 +12,7 @@
 - \[2:39\]主播们的电脑使用史
 - \[11:57\]为什么程序员一度都更愿意使用Mac电脑
 - \[14:39\]朱峰和老高选择ThinkPad的原因
-- \[23:43\]ThinkPad的特色：键盘灯[ThinkLight](https://en.wikipedia.org/wiki/IBM_ThinkPad_ThinkLight)，[180°转轴](https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_T470-20HD002HGE/IMG_2404.JPG)，[小红点TrackPoint](https://baike.baidu.com/item/小红帽/4126828)和键盘
+- \[23:43\]ThinkPad的特色：[键盘灯ThinkLight](https://en.wikipedia.org/wiki/IBM_ThinkPad_ThinkLight)，[180°转轴](https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_T470-20HD002HGE/IMG_2404.JPG)，[小红点TrackPoint](https://baike.baidu.com/item/小红帽/4126828)和键盘
 - \[34:22\]联想收购ThinkPad后干的蠢事
 - \[36:39\]朱峰为什么从ThinkPad换到了Mac
 - \[48:07\]朱峰再次换回了ThinkPad的原因
