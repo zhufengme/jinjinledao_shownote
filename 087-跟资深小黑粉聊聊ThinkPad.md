@@ -12,7 +12,7 @@
 - \[2:39\]主播们的电脑使用史
 - \[11:57\]为什么程序员一度都更愿意使用Mac电脑
 - \[14:39\]朱峰和老高选择ThinkPad的原因
-- \[23:43\]ThinkPad的特色：键盘灯[ThinkLight](https://en.wikipedia.org/wiki/IBM_ThinkPad_ThinkLight)，180°转轴，[小红点TrackPoint](https://baike.baidu.com/item/小红帽/4126828)和键盘
+- \[23:43\]ThinkPad的特色：键盘灯[ThinkLight](https://en.wikipedia.org/wiki/IBM_ThinkPad_ThinkLight)，[180°转轴](https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_T470-20HD002HGE/IMG_2404.JPG)，[小红点TrackPoint](https://baike.baidu.com/item/小红帽/4126828)和键盘
 - \[34:22\]联想收购ThinkPad后干的蠢事
 - \[36:39\]朱峰为什么从ThinkPad换到了Mac
 - \[48:07\]朱峰再次换回了ThinkPad的原因
@@ -27,15 +27,23 @@
 ### 产品图片
 
 老高的第一台ThinkPad [T40](https://images.anandtech.com/reviews/system/laptop/CentrinoRound/IBM7500/system_big.jpg)
+
 老高的第二台ThinkPad [Z61m](https://www.notebookcheck.net/fileadmin/_processed_/csm_lenovo_z61m_gesamt3_f32b624715.jpg)
+
 朱峰的第一台ThinkPad [T41](https://www-01.ibm.com/common/ssi/rep_ca/4/760/MBL03324/MBL03324_1.jpg)
+
 朱峰的第二台ThinkPad [Z61t](https://www.goodgearguide.com.au/products/image/2297/angle/8/1500x1500/123908/)
+
 朱峰的第三台ThinkPad [X1 Carbon 2017?](https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_X1_Carbon_2017-20HQS03P00_/teaser_4_3.JPG) 
+
 朱峰的第四台ThinkPad [T470](https://www.laptopoutlet.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/0/20HD000LUK-01.jpg)
-[180°开合的ThinkPad](https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_T470-20HD002HGE/IMG_2404.JPG)
+
 ThinkPad X1 Carbon 2014的[“自适应键盘”](http://17c4dcd7f91259d8cc66-f5932f6db0039e8c02f89a70c334ff0e.r2.cf1.rackcdn.com/wp-content/uploads/sites/2/P1240318-752x423.jpg)
+
 ThinkPad游戏本 [黑将S5](http://p2.lefile.cn/product/adminweb/2016/07/05/2.jpg)
+
 [ThinkPad 25周年纪念版](https://aozoeky4dglp5sh0-zippykid.netdna-ssl.com/wp-content/uploads/2017/10/thinkpad-anniversary-25.jpg)
+
 [银色的ThinkPad X1 Carbon 2018](https://regmedia.co.uk/2018/03/28/x1_silver_side_w1296px.jpg)
 
 ## 制作人员
